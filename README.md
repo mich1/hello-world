@@ -1,2 +1,10 @@
-# hello-world
-My first repository on GitHub
+hello-world
+===========
+
+Hello, World!
+
+My first repository on GitHub!
+
+I love :coffee:, :pizza:, and :dancer:.
+
+I love coffee, pizza, and dancer.
